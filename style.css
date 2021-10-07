@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 *
 {
     margin: 0;
@@ -114,5 +115,3 @@ body::after
 {
     background: rgba(255, 255, 255, 0.05);
 }
-
-
